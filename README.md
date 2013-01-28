@@ -33,3 +33,8 @@ Permissions grapher is used to figure out any potential route from a protected
 resource on your phone to the internet through a graphical map. Enjoy!
 
 The Stealcontacts1 and Stealcontacts2 are demo applications used to push addresses from a users address book into a php form online. 
+This is done by writing the contacts into the extended metadata field of a picture of a kitten stored on the SD card. To a normal user this would look like any other picture - however it contains a hidden payload. 
+
+This project was for CS461/ECE422 at the University of Illinois Urbana Champaign
+
+Copyright 2010 Kieran Levin 
