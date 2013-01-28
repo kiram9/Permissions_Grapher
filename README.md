@@ -1,6 +1,6 @@
 Permissions_Grapher
 ===================
-A set of three applications to show the transmission from a protected resource on an androi device to the internet
+A set of three applications to show the transmission/leaking of data from a protected resource on an android device to the internet
 
 
 
